@@ -5,15 +5,16 @@ SSDP+ is an extension of the SSDP model (https://github.com/tarcisiodpl/ssdp) to
 # Link for SSDP+ paper: 
 https://ieeexplore.ieee.org/document/8477855
 
-Description folders:
+# Description folders:
 
-# SSDP+
+## SSDP+
 Java implementation of SSDP+.
 SSDP+ was implemented as a Netbeans project. Thus, you have to:
 1) download and install the Netbeans with Java (https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk-netbeans-jsp-3413153-ptb.html)
 2) download the SSDPplus of this repository and open in Neatbeans
-        Class SSDPplus contains a main method that is a self explanatory way how to run the algorithm:
-//*******************************************
+3) Class SSDPplus contains a main method that is a self explanatory way how to run the algorithm:
+       
+        //*******************************************
         //Data set                    ***************
         //*******************************************
         String caminho = "C:\\Users\\Tarcisio  Lucas\\Documents\\NetBeansProjects\\SSDPplus\\pastas\\bases\\"; 
@@ -89,8 +90,8 @@ SSDP+ was implemented as a Netbeans project. Thus, you have to:
        
         
 
-# experiments:
+## experiments:
 This folder contains the results of the experiments
 
-# data sets:
+## data sets:
 This folder contains part of the databases used in the experiments
