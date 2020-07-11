@@ -1,12 +1,18 @@
 # Introduction
 SSDP+ is an evolutionary approach for mining diverse and more informative subgroups focused on high dimensional data sets. 
-SSDP+ is an extension of the SSDP model (https://github.com/tarcisiodpl/ssdp) to provide diversity in a way that explore the relation between subgroups order to generate a more informative set of patterns.
+SSDP+ is an extension of the SSDP model (https://github.com/tarcisiodpl/ssdp) to provide diversity in a way that explore the relation between subgroups order to generate a more informative set of patterns. 
+
+# Link for SSDP+ paper: 
+https://ieeexplore.ieee.org/document/8477855
 
 Description folders:
 
 # SSDP+
 Java implementation of SSDP+.
-Class SSDPplus contains a main method that is a self explanatory way how to run the algorithm:
+SSDP+ was implemented as a Netbeans project. Thus, you have to:
+(1) download and install the Netbeans with Java: https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk-netbeans-jsp-3413153-ptb.html
+(2) download the SSDPplus of this repository and open in Neatbeans
+        Class SSDPplus contains a main method that is a self explanatory way how to run the algorithm:
 //*******************************************
         //Data set                    ***************
         //*******************************************
