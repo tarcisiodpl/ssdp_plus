@@ -6,7 +6,8 @@ SSDP+ is an extension of the SSDP model (https://github.com/tarcisiodpl/ssdp) to
 https://ieeexplore.ieee.org/document/8477855
 
 # Video: 
-Running the algorithm (português): 
+
+Rodando o SSDP+ (português): https://youtu.be/u175JvLD-38
 
 # Description folders:
 
